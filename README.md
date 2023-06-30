@@ -1,5 +1,7 @@
 # Упрощенная форма редактирования настроек СКД для конфигураций на обычных формах
 
+[Скачать](https://github.com/kuzyara/ManagedFormesReports/raw/main/ManagedFormesReports.dt)
+
 Статья: https://infostart.ru/1c/tools/1891044/
 
 Предоставляет простой интерфейс для настройки отчетов на СКД
