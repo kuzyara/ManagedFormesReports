@@ -1,6 +1,6 @@
 # Упрощенная форма редактирования настроек СКД на управляемых формах
 
-[Скачать](https://github.com/kuzyara/ManagedFormesReports/raw/main/ManagedFormesReports.dt)
+[Скачать .dt](https://github.com/kuzyara/ManagedFormesReports/raw/main/ManagedFormesReports.dt) [Скачать .erf](https://github.com/kuzyara/ManagedFormesReports/blob/main/ШаблонОтчетаНаСКДУправляемыеФормы.erf)
 
 Статья: https://infostart.ru/1c/tools/1891044/
 
