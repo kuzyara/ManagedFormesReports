@@ -21,4 +21,5 @@
 - Загрузка настроек любого пользователя
 Код не мой.
 
-![image](https://github.com/kuzyara/ManagedFormesReports/assets/2604430/f9760d08-36d2-4b30-9019-19859f08d342)
+![image](MainForm.png)
+![image](SettingsForm.png)
